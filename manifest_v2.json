@@ -1,0 +1,53 @@
+{
+  "item": {
+    "id": "com.pocketgenesis.alchemy",
+    "restype": "quick_app",
+    "name": "「口袋创世神」小游戏",
+    "description": "口袋创世神是一款合成解密趣味游戏，目前有6个关卡，第1关免费体验",
+    "preview": [
+      "media/39563.png",
+      "media/39562.png",
+      "media/39561.png"
+    ],
+    "icon": "media/39560.png",
+    "cover": "media/39564.png",
+    "author": [
+      {
+        "name": "infatuation326",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "爱发电链接",
+      "url": "https://ifdian.net/item/42c9c5a4e72c11f1994052540025c377",
+      "icon": "link"
+    },
+    {
+      "title": "卡密激活地址",
+      "url": "https://devfile.vip/preview/qzopbs91",
+      "icon": "book"
+    },
+    {
+      "title": "卡密激活地址（备用）",
+      "url": "https://orbit-xqwo.upma.page",
+      "icon": "book"
+    }
+  ],
+  "downloads": {
+    "xmb10p": {
+      "version": "1.0.5",
+      "file_name": "downloads/com.pocketgenesis.alchemy.release.1.0.5.rpk",
+      "versionCode": 6
+    },
+    "xmb9p": {
+      "version": "1.0.5",
+      "file_name": "downloads/com.pocketgenesis.alchemy.release.1.0.5.rpk",
+      "versionCode": 6
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
